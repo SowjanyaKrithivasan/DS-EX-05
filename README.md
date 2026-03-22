@@ -1,4 +1,4 @@
-# EX-NO 05-DATA VISUALIZATION USING MATPLOT LIBRARY
+## EX-NO 05-DATA VISUALIZATION USING MATPLOT LIBRARY
 
 ### Aim:
   To Perform Data Visualization using matplot python library for the given datas.
